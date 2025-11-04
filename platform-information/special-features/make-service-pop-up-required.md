@@ -14,4 +14,4 @@ To enable this feature, please activate the '_Service Pop-up required_'' button 
 Settings > System > Misc > Service Pop-up required
 {% endhint %}
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
